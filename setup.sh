@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define target directory
-TARGET_DIR=~/projects/cs210/microblog
+TARGET_DIR=~/projects/microblog
 BACKUP_DIR="$TARGET_DIR/backup_$(date +%Y%m%d_%H%M%S)"
 
 # Confirm overwrite
